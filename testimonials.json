@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Hassan R.",
+    "role": "Founder, CafeSpice",
+    "avatar": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?q=80&w=300&auto=format&fit=crop",
+    "quote": "Ifra delivered our website ahead of time with fantastic UX and performance."
+  },
+  {
+    "name": "Sara A.",
+    "role": "Marketing Lead, Growthy",
+    "avatar": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?q=80&w=300&auto=format&fit=crop",
+    "quote": "Her SEO and email campaigns boosted our leads by 40% in a month."
+  },
+  {
+    "name": "Bilal K.",
+    "role": "CTO, DevStack",
+    "avatar": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe?q=80&w=300&auto=format&fit=crop",
+    "quote": "Clean code, strong grasp of React and Node.js, and great communication."
+  }
+]
