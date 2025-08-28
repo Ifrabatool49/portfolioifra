@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Purple Bean Restaurant",
+    "type": "frontend",
+    "tech": ["HTML5", "CSS3", "Bootstrap 5", "Vanilla JS"],
+    "img": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=1200&auto=format&fit=crop",
+    "link": "#",
+    "desc": "Accessible, mobile-first restaurant website with semantic markup and responsive components."
+  },
+  {
+    "title": "Real-Time Chat App",
+    "type": "fullstack",
+    "tech": ["React", "Node.js", "Socket.IO", "MongoDB"],
+    "img": "https://images.unsplash.com/photo-1556157382-97eda2d62296?q=80&w=1200&auto=format&fit=crop",
+    "link": "#",
+    "desc": "Secure chat with JWT auth, online presence and message delivery indicators."
+  },
+  {
+    "title": "E-Commerce Frontend",
+    "type": "frontend",
+    "tech": ["React", "Redux", "Stripe (mock)"],
+    "img": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=1200&auto=format&fit=crop",
+    "link": "#",
+    "desc": "Product listing, filters, cart and checkout UI; optimized for performance."
+  },
+  {
+    "title": "Task Manager API",
+    "type": "fullstack",
+    "tech": ["Node.js", "Express", "MongoDB", "Jest"],
+    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1200&auto=format&fit=crop",
+    "link": "#",
+    "desc": "RESTful API with CRUD, validation, role-based access and unit tests."
+  },
+  {
+    "title": "SaaS Dashboard UI",
+    "type": "uiux",
+    "tech": ["Figma", "Design System", "Prototyping"],
+    "img": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?q=80&w=1200&auto=format&fit=crop",
+    "link": "#",
+    "desc": "Component library, grid layouts and motion principles for enterprise dashboard."
+  }
+]
